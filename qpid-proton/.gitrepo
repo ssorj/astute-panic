@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/apache/qpid-proton.git
+	branch = master
+	commit = ebd301b954e91e75ebdfd19316ca45ea3de9e146
+	parent = 2ff09034a9f73d4332a18643c6e5b84824afc1b3
+	method = merge
+	cmdver = 0.4.3
